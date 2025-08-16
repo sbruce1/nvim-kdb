@@ -34,3 +34,5 @@ This project allows executing q code inside of neovim via PyKX Sync Connections.
 2. Execute against connection with `<Leader>r` or `:QRun`, this pops up a new buffer, but if you already have a previous execution window it sticks.
 
 ![](./screenshots/QRun.png)
+
+__Tip__: `<C-w><C-K>` moves a vsplit to a split if you prefer it automatically opening to the bottom 
